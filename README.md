@@ -29,3 +29,9 @@ Configured posts edition with :
 
 Everything is ok.
 
+Added summary config for posts
+
+    summary: "{{year}}-{{month}}-{{day}}-{{slug}}"
+
+Everything is ok
+
