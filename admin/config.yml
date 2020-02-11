@@ -5,6 +5,8 @@ backend:
 site_url: https://upbeat-euler-2e4306.netlify.com
 display_url: https://upbeat-euler-2e4306.netlify.com
 
+locale: 'fr'
+
 media_folder: "img"
 
 collections:
