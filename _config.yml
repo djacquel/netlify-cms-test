@@ -1,6 +1,6 @@
 locale : "fr"
 title  : "Netlify CMS test"
-url    :
+url    : https://upbeat-euler-2e4306.netlify.com
 baseurl  :
 
 encoding: "utf-8"
