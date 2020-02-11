@@ -26,3 +26,6 @@ Configured posts edition with :
           - {label: "Publish Date", name: "date", widget: "datetime"}
           - {label: "Featured Image", name: "thumbnail", widget: "image"}
           - {label: "Body", name: "body", widget: "markdown"}
+
+Everything is ok.
+
